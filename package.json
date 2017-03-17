@@ -1,0 +1,14 @@
+{
+    "name": "Proba",
+    "private": true,
+    "version": "0.0.0",
+    "description": "MCIS Proba",
+    "license": "MIT",
+    "main": "library.js",
+    "devDependencies": {
+        "grunt": "latest",
+        "typescript": "latest",
+        "grunt-ts": "latest",
+        "grunt-contrib-copy": "latest"
+    }
+}
